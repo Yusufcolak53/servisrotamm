@@ -1,0 +1,154 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+        .color{
+            width: 100%;
+            height: 140px;
+            background-color: #FBE601;
+            text-align: center;
+            font-size: 2.4em;
+            font-weight: 900;
+        }
+        .color h1{
+            padding: 45px;
+        
+        }
+
+        .title{
+            text-align: center;
+            padding: 30px 0px 0px 0px;
+            font-size: 1.8em;
+            font-weight: 500;
+            
+        
+        }
+   
+        .e{
+            display: inline-block;
+            text-align: center;
+            justify-content: center;
+            padding: 50px 0px 0px 200px;
+            
+
+        }
+
+       .e h3{
+        font-size: 1.5em;
+        padding: 0px 0px 20px 0px;
+        color: #1C48A0;
+        font-weight: 700;
+       }    
+       .e p{
+        color:cadetblue
+       }
+       .mid-title{
+   text-align: center;
+   padding: 70px 0px 0px 0px ;
+   font-size: 1.8em;
+   font-weight: 500px;
+}
+.mid-color{
+    width: 100%;
+    height: 180px;
+    background-color: #B1FFD5;
+}
+.qr{
+    display: flex;
+    justify-content:center;
+}
+.qr h2{
+    padding: 50px 50px 0px 0px ;
+    font-size: 1.4em;
+}
+.qr img{
+    padding: 20px;
+}
+.phone{
+    padding: 70px 0px 0px 0px;
+    display: flex;
+    text-align:center ;
+    justify-content: center;
+
+}
+.mobile{
+    padding: 140px 0px 0px 0px;
+    font-size: 1.4em;
+    line-height: 1.4em;
+    
+}
+.end-color{
+    width: 100%;
+    height: 180px;
+    background-color: #DAF9FE;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px 0px 0px;
+}
+.footer{
+    background-color: #B1FFD5;
+    width: 150%;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    padding: 30px 830px 0px 0px;
+    font-size: 1.4em;
+
+}
+.q{
+    padding: 56px 50px 0px 0px;
+    
+}
